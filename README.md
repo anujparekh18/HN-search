@@ -1,5 +1,9 @@
 ## A web-app to search hacker news stories.
 
+![screenshot]
+
+[screenshot]: ./hacker-news-search.png
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
